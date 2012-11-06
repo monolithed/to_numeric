@@ -14,8 +14,9 @@ git clone git@github.com:monolithed/to_numeric.git
 
 Place the to_numeric.hpp into the working directory and include like:
 
+```c++
 #inclide "to_numeric.hpp"
-
+```
 
 ## Supported operations
 

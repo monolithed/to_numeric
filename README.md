@@ -65,6 +65,4 @@ float                 ->  double
 
 ##.
 
-* to_numeric library is licensed under the MIT (MIT_LICENSE.txt) license
-
-* Copyright (c) 2012 [Alexander Guinness] (https://github.com/monolithed)
+* This library is licensed under the MIT license
